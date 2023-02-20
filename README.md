@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/skullfiredevil1" target="blank"><img src="https://img.shields.io/twitter/follow/skullfiredevil1?logo=twitter&style=for-the-badge" alt="skullfiredevil" /></a> </p>
 
-- 🌱 I’m currently learning **JS, Ruby and SQL**
+- 🌱 I’m currently learning **JS, Ruby, Rails and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
