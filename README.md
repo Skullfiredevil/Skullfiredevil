@@ -15,7 +15,9 @@ Thanks for stopping by! Feel free to reach out if you'd like to connect or colla
 ![](https://github-readme-stats.vercel.app/api?username=Skullfiredevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skullfiredevil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullfiredevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=Skullfiredevil&theme=radical&no-frame=false&no-bg=true&margin-w=2)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Skullfiredevil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Skullfiredevil1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
