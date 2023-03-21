@@ -5,6 +5,7 @@ I enjoy building web applications that are both visually appealing and functiona
 
 Thanks for stopping by! Feel free to reach out if you'd like to connect or collaborate on a project.
 
+[![](https://visitcount.itsvg.in/api?id=Skullfiredevil&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Skullfiredevil) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/524950020634705932) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Skullfiredevil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-pinto-954674251) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Skullfiredevil1)
@@ -28,7 +29,6 @@ Thanks for stopping by! Feel free to reach out if you'd like to connect or colla
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Skullfiredevil&icon=0&color=12)](https://visitcount.itsvg.in)
-
+<!--
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Skullfiredevil)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Skullfiredevil) -->
