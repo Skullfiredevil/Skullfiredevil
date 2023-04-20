@@ -13,4 +13,4 @@ Thanks for stopping by! Feel free to reach out if you'd like to connect or colla
 
 
 # 📊 GitHub Stats:
-<div style="flex: 1;"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skullfiredevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 50%; height: auto;" /> </div>
+<div style="flex: 1;"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skullfiredevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 50%; height: 75%;" /> </div>
