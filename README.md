@@ -19,10 +19,9 @@ Thanks for stopping by! Feel free to reach out if you'd like to connect or colla
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Skullfiredevil1)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
----
 <!--
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Skullfiredevil) -->
 
-# 🎵 Recently Played
+# 🎵 Now Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&redirect=true)
