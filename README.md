@@ -24,4 +24,4 @@ Thanks for stopping by! Feel free to reach out if you'd like to connect or colla
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Skullfiredevil) -->
 
 # 🎵 Now Listening to
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=56a654&bar_color_cover=true" /></div>  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&redirect=true)
