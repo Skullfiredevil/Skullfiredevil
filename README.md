@@ -1,4 +1,4 @@
-Hi there, I'm Skullfiredevil! I'm a passionate web developer from the UK. Currently, I'm exploring new technologies 
+Hi there, I'm Skullfiredevil! I'm a passionate web developer from Portugal. Currently, I'm exploring new technologies :D
 
 I enjoy building web applications that are both visually appealing and functional. When I'm not coding, you can usually find me reading, listening music, or playing video games.
 
