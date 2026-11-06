@@ -8,12 +8,7 @@ I make things for the web. Sometimes that means designing an interface, sometime
 
 Based in **Portugal**. Somewhere between **design, code, and curiosity**.
 
-<p>
-  <a href="https://linkedin.com/in/tiago-pinto-954674251">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://behance.net/Skullfiredevil">Behance</a> &nbsp;·&nbsp;
-  <a href="https://discord.com/users/524950020634705932">Discord</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/Skullfiredevil">Instagram</a>
-</p>
+![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Skullfiredevil) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/524950020634705932) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Skullfiredevil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-pinto-954674251) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Skullfiredevil1)[![](https://visitcount.itsvg.in/api?id=Skullfiredevil&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ---
 
