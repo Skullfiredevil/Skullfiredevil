@@ -45,7 +45,7 @@ The flight log shows the last complete UTC day. The pixels below the ship are tw
 
 The languages panel counts the primary language of each public repository I own, excluding forks and repositories without a detected language. Each repo gets one vote. Counts and percentages refresh with the UFO; archived repos are included.
 
-Inspired by [git-koi](https://github.com/yalongwastaken/git-koi) by [yalongwastaken](https://github.com/yalongwastaken). Original UFO artwork and renderer live [right here](scripts/render_orbit.py).
+Original UFO artwork and renderer live [right here](scripts/render_orbit.py).
 
 [How it works / setup](docs/SETUP.md)
 
