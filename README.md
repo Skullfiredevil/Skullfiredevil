@@ -1,33 +1,54 @@
-Hi there, I'm Skullfiredevil! I'm a passionate web developer from Portugal. Currently, I'm exploring new technologies :D
+<p align="center">
+  <img src="assets/orbit.gif" width="100%" alt="Skullfiredevil — a little out of orbit. My languages by repo count sit beside a pixel alien piloting a mint-green UFO above my GitHub contribution history." />
+</p>
 
-I enjoy building web applications that are both visually appealing and functional. When I'm not coding, you can usually find me reading, listening music, or playing video games.
+# Hey, I'm Skully.
 
-Thanks for stopping by! Feel free to reach out if you'd like to connect or collaborate on a project.
+I make things for the web. Sometimes that means designing an interface, sometimes it means building the whole stack, and sometimes it means following a slightly unhinged idea to see what happens.
 
+Based in **Portugal**. Somewhere between **design, code, and curiosity**.
 
+<p>
+  <a href="https://linkedin.com/in/tiago-pinto-954674251">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://behance.net/Skullfiredevil">Behance</a> &nbsp;·&nbsp;
+  <a href="https://discord.com/users/524950020634705932">Discord</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/Skullfiredevil">Instagram</a>
+</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Skullfiredevil) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/524950020634705932) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Skullfiredevil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiago-pinto-954674251) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Skullfiredevil1)[![](https://visitcount.itsvg.in/api?id=Skullfiredevil&icon=0&color=12)](https://visitcount.itsvg.in)
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Skullfiredevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### Different orbits. Same curiosity.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Skullfiredevil&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullfiredevil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Design →** interfaces with character, thoughtful interactions, and the tiny details you notice without knowing why.
+- **Development →** connecting what you see to everything happening behind it. Frontend, backend, and the bits in between.
+- **Experiments →** creative coding, weird little tools, and ideas that start with “okay, but what if…”
 
-<!-- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Skullfiredevil1)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
-<!--
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Skullfiredevil) -->
+### In the toolkit
 
-<!-- # 🎵 Now Listening to
-<div align="center">
+| | Tools I work with |
+| :--- | :--- |
+| **Interfaces** | JavaScript · React · HTML · CSS / Sass |
+| **Behind the scenes** | Node.js · Ruby / Rails · PHP · SQLite |
+| **Other rabbit holes** | Python · Lua · Swift |
+| **Design desk** | Figma · Photoshop |
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ynpg21rtgkb78wui2olcfi6bo&redirect=true)
+<br />
 
-</div>
- -->
+> Good design gets me interested. Making it work keeps me up.
 
+<details>
+  <summary><b>About the visitor up there</b></summary>
+
+The UFO is drawn from my GitHub contribution history and refreshed daily. Recent activity powers its beam, yesterday's activity changes its flight, and a contribution streak lights up its saucer. The little alien blinks either way.
+
+The flight log shows the last complete UTC day. The pixels below the ship are twelve weeks of contribution activity, oldest to newest, top to bottom within each column. Quiet days belong in the picture too.
+
+The languages panel counts the primary language of each public repository I own, excluding forks and repositories without a detected language. Each repo gets one vote. Counts and percentages refresh with the UFO; archived repos are included.
+
+Inspired by [git-koi](https://github.com/yalongwastaken/git-koi) by [yalongwastaken](https://github.com/yalongwastaken). Original UFO artwork and renderer live [right here](scripts/render_orbit.py).
+
+[How it works / setup](docs/SETUP.md)
+
+</details>
+
+<p align="center"><sub>Still exploring. Still making things. Probably opening another tab.</sub></p>
